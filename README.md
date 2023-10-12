@@ -2,11 +2,11 @@
 
 ## Hosted Link : 
 
-# https://estore-react-reduxtoolkit.vercel.app/
+# https:
 
 ## Link to Video Explanation and working demo
 
-# https://youtu.be/a-1YWp8B3H0
+# https:
 
 
 Functionalities : 
@@ -29,4 +29,4 @@ Functionalities :
 - Axios
 - Bootstrap
 
-### I'm open to suggestions , you can [mail](mailto:fularekaran@yahoo.com) me, thank you !!!
+### I'm open to suggestions , you can me, thank you !!!
